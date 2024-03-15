@@ -2,3 +2,4 @@ Hello GitHub! Im on my way from coding temple!
 this is more text 
 this is more text again 
 testing changing welcome 
+forgot to do the commit notes 
