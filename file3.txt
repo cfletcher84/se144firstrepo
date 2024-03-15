@@ -1,2 +1,3 @@
 A third file 
 editing the third file 
+added note to file3 
