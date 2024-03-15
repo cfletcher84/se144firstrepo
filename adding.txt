@@ -1,2 +1,3 @@
 Adding a new file to github 
 Adding more text again 
+adding note to adding.txt 
